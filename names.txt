@@ -1,2 +1,3 @@
+role,NetID,LastName,FirstName
 boss,gli292,Li,Guanwei
 employee,cwu465,Wu,Chenfeng
